@@ -1,0 +1,12 @@
+C:\FYP\MyProduct\MyProduct\bin\Debug\netcoreapp3.1\MyProduct.exe
+C:\FYP\MyProduct\MyProduct\bin\Debug\netcoreapp3.1\MyProduct.deps.json
+C:\FYP\MyProduct\MyProduct\bin\Debug\netcoreapp3.1\MyProduct.runtimeconfig.json
+C:\FYP\MyProduct\MyProduct\bin\Debug\netcoreapp3.1\MyProduct.runtimeconfig.dev.json
+C:\FYP\MyProduct\MyProduct\bin\Debug\netcoreapp3.1\MyProduct.dll
+C:\FYP\MyProduct\MyProduct\bin\Debug\netcoreapp3.1\MyProduct.pdb
+C:\FYP\MyProduct\MyProduct\obj\Debug\netcoreapp3.1\MyProduct.AssemblyInfoInputs.cache
+C:\FYP\MyProduct\MyProduct\obj\Debug\netcoreapp3.1\MyProduct.AssemblyInfo.cs
+C:\FYP\MyProduct\MyProduct\obj\Debug\netcoreapp3.1\MyProduct.csproj.CoreCompileInputs.cache
+C:\FYP\MyProduct\MyProduct\obj\Debug\netcoreapp3.1\MyProduct.dll
+C:\FYP\MyProduct\MyProduct\obj\Debug\netcoreapp3.1\MyProduct.pdb
+C:\FYP\MyProduct\MyProduct\obj\Debug\netcoreapp3.1\MyProduct.genruntimeconfig.cache
